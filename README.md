@@ -50,23 +50,23 @@ Submission Guidelines
 File Structure:
 Create a file named: temperature_analysis.py
 
-# Name: [Your Name]
-# Roll Number: [Your Roll Number]
-# Assignment: Python Loops & Automation - Subjective Question
+### Name: [Your Name]
+### Roll Number: [Your Roll Number]
+### Assignment: Python Loops & Automation - Subjective Question
 
 print("===== Task 1: Find Maximum and Minimum =====")
 temperatures = [28, 32, 35, 29, 31, 27, 30]
-# Write your code here
+### Write your code here
 
 
 print("\n===== Task 2: Count Hot Days =====")
 temperatures = [28, 32, 35, 29, 31, 27, 30]
-# Write your code here
+### Write your code here
 
 
 print("\n===== Task 3: Alert System =====")
 temperatures = [28, 32, 35, 40, 31, 33, 30]
-# Write your code here
+### Write your code here
 How to Submit:
 Option 1: GitHub
 
